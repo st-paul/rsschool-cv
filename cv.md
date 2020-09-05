@@ -42,12 +42,14 @@ function cake(x, y){
 #### Experience and education:
 
 Self-education online:
-[* BrainsCloud Author's course](https://brainscloud.ru/landing/html-css)
-[* BrainsCloud YouTube channel](https://www.youtube.com/c/BrainsCloud)
-[* FreeCodeCamp](https://www.freecodecamp.org/st-paul)
-[* Hexlet](https://ru.hexlet.io/)
-Studying learn.javascript.ru
-Other YouTube channels and sites
+* [BrainsCloud Author's course](https://brainscloud.ru/landing/html-css)
+* [BrainsCloud YouTube channel](https://www.youtube.com/c/BrainsCloud)
+* [FreeCodeCamp](https://www.freecodecamp.org/st-paul)
+* [Hexlet](https://ru.hexlet.io/)
+
+* Studying learn.javascript.ru
+* Other YouTube channels and sites
+
 
 #### English:
 According to the results of EPAM test my English level  is A2, but I do everything to up the level, because I recently started learning it.
