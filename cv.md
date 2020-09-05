@@ -17,8 +17,7 @@ I've skills Css, HTML, JavaScript.
 <details>
   <summary>Task Birthday I - Cake from Codewars (<i>click to expand</i>)</summary>
 
-  ```
-
+```
 function cake(x, y){
     let sum = (y) => {
         let arr = y.split('');
@@ -35,9 +34,9 @@ function cake(x, y){
         return 'Fire!';
     } 
     return 'That was close!'; 
-}
+} 
+```
 
-  ```
 </details>
 
 #### Experience and education:
