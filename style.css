@@ -1,0 +1,22 @@
+.container {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.head {
+    text-align: center;
+    background-color: #eee;
+}
+
+.main {
+    
+}
+
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+.footer {
+    text-align: center;
+    background-color: #eee;
+}
