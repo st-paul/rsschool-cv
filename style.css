@@ -1,0 +1,48 @@
+html {
+    font-size: 16px;
+}
+.head {
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.head__logo {
+    width: 190px;
+    height: 70px;
+}
+.head__wrapper {
+   display: flex;
+    
+}
+.head__title {
+    padding-left: 150px;
+    
+}
+.container {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.head {
+    text-align: center;
+    background-color: #eee;
+}
+
+.main_wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+.photo {
+    width: 30%;
+}
+.content {
+    width: 70%;
+}
+.photo__user {
+    width: 260px;
+    height: 260px;
+    border-radius: 50%
+}
+.footer {
+    text-align: center;
+    background-color: #eee;
+}
